@@ -35,5 +35,3 @@ El proyecto está dividido en dos carpetas principales:
 ## Diseño
 
 Este proyecto aún está en desarrollo y puede que algunos detalles estéticos no estén completamente pulidos. Sin embargo, su funcionalidad está completamente implementada y opera correctamente. Lo estoy mejorando conforme avanzo en mi aprendizaje.
-
-
