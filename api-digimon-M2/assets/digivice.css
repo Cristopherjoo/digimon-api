@@ -1,0 +1,10 @@
+body{
+    background-image:url(./imagenes/bg.jpg);
+    background-attachment: fixed;
+}
+
+.tableW{
+    width: 33rem;
+
+}
+
